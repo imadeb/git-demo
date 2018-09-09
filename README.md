@@ -2,9 +2,6 @@
 
 Thus is the first files in this repo.
 
-##Ipsu; Below
+##Website Contents
 
-Test
-
-
-Test 2
+1. index.html
